@@ -1,1 +1,9 @@
-This is a new file
+while loops
+zip and map
+Python Scope
+Lambdas
+map
+Generators
+oop
+Decorators
+Best Practices and Gotchas
