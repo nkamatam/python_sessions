@@ -7,3 +7,16 @@ Generators
 oop
 Decorators
 Best Practices and Gotchas
+
+
+
+Movies are a significant indicator of cultural diversity in any modern state. Some would go on to argue that understanding the cinema is the key to understanding the culture. The United Nations has collected some data on this and is downloaded for you here. 
+
+You can get more detailed data from UNESCO website: http://data.uis.unesco.org/
+Please look at the data in the above csv file and answer the following questions (please feel free to Google wherever required):
+1.	On how many distinct categories/indicators has the data been collected?
+2.	Which country made the maximum animated feature films in the years 2014 and 2015?
+3.	For the year 2014, how many countries have been studied for at least one indicator?
+4.	Which country has the maximum ratio for total number of indoor cinemas vs total number of national feature films produced for the year 2015.
+5.	What does the Symbol (‡) Signify? Which country has most of those?
+6.	What year is India’s Gross box office receipts for all national feature films (in local currency) the highest?
