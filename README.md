@@ -14,13 +14,13 @@ git config --global user.name "Nani" <br> <br>
 PS1="\w$ " <br>
 rm -rf * <br>
 git clone https://github.com/nkamatam/python_sessions.git <br>
-git config --global user.email "surender.paidipala@gmail.com" <br>
-git config --global user.name "surender" <br> <br>
+git config --global user.email "vrvg.sasi@gmail.com" <br>
+git config --global user.name "Raghu" <br> <br>
 
 
 
 PS1="\w$ " <br>
 rm -rf * <br>
 git clone https://github.com/nkamatam/python_sessions.git<br>
-git config --global user.email "koneru.aditya31@gmail.com" <br>
-git config --global user.name "aditya461" <br> <br>
+git config --global user.email "jaydangeti@gmail.com" <br>
+git config --global user.name "Jay" <br> <br>
