@@ -5,7 +5,7 @@ I just found some random notes from Github. Seem to be good for our purpose, we 
 
 
 
-PS1="\w$ " <br>
+PS1="\w\n\n$ " <br>
 rm -rf * <br>
 git clone https://github.com/nkamatam/python_sessions.git <br>
 git config --global user.email "nkamatam@gmail.com" <br>
