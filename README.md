@@ -24,3 +24,10 @@ rm -rf * <br>
 git clone https://github.com/nkamatam/python_sessions.git<br>
 git config --global user.email "jaydangeti@gmail.com" <br>
 git config --global user.name "Jay" <br> <br>
+
+
+PS1="\w$ " <br>
+rm -rf * <br>
+git clone https://github.com/nkamatam/python_sessions.git<br>
+git config --global user.email "rakeshagrawal2808@gmail.com" <br>
+git config --global user.name "rakesh" <br> <br>
