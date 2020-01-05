@@ -14,8 +14,8 @@ git config --global user.name "NANI" <br> <br>
 PS1="\w$ " <br>
 rm -rf * <br>
 git clone https://github.com/nkamatam/python_sessions.git <br>
-git config --global user.email "allasrinath12@gmail.com" <br>
-git config --global user.name "Srinath Chowdary aLLA" <br> <br>
+git config --global user.email "nemalipuribadri@gmail.com" <br>
+git config --global user.name "nemalipuribadri" <br> <br>
 
 
 
