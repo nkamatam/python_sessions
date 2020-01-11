@@ -34,7 +34,7 @@ git config --global user.name "rakesh" <br> <br>
 
 
 
-[07:21, 1/11/2020] కే ఎన్ కే: 1. Open Github link: https://github.com/nkamatam/python_sessions
+1. Open Github link: https://github.com/nkamatam/python_sessions
 2. Open the Jupyter notebook link : https://jupyter.org/try
 3. On the Jupyter notebook, choose "Try Jupyterlab"
 4. Wait for the jupyter notebook to come up.
@@ -44,7 +44,9 @@ git config --global user.name "rakesh" <br> <br>
 8. Navigate to "python_sessions/20200104/XXXXXX/"
 9. Open a notebook in that area
    File -> New -> Notebook -> Python3
-[09:16, 1/11/2020] కే ఎన్ కే: At the end of the session
+
+
+At the end of the session
 
 cd python_sessions
 git pull 
