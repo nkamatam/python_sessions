@@ -9,13 +9,18 @@ PS1="\w\n\n$ " <br>
 rm -rf * <br>
 git clone https://github.com/nkamatam/python_sessions.git <br>
 git config --global user.email "nkamatam@gmail.com" <br>
+cd python_sessions <br>
 git config --global user.name "NANI" <br> <br>
+cd .
+
 
 PS1="\w\n\n$ " <br>
 rm -rf * <br>
 git clone https://github.com/nkamatam/python_sessions.git <br>
 git config --global user.email "abhinav.kamatamu@gmail.com" <br>
+cd python_sessions <br>
 git config --global user.name "Abhinav" <br> <br>
+cd .
 
 
 PS1="\w$ " <br>
