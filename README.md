@@ -19,7 +19,7 @@ rm -rf * <br>
 git clone https://github.com/nkamatam/python_sessions.git <br>
 git config --global user.email "abhinav.kamatamu@gmail.com" <br>
 cd python_sessions <br>
-git config --global user.name "Abhinav" <br> <br>
+git config --global user.name "Abhinav-Kamatamu" <br> <br>
 cd .
 
 
